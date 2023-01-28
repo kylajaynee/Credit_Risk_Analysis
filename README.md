@@ -13,16 +13,16 @@ recommendation on whether they should be used to predict credit risk.
 4. A Written Report on the Credit Risk Analysis (README)
 #### Results
 -Naive Random Oversampling balanced accurracy score 0.646
- ![Precision and Recall Scores](./Naive_Random_Over.png)
+ ![Precision and Recall Scores](./Credit_Risk_Analysis/Naive_Random_Over.png)
 -SMOTE Oversampling balanced accuracy score 0.659
- ![SMOTE Oversampling](./SMOTE_Over.png)
+ ![SMOTE Oversampling](./Credit_Risk_Analysis/SMOTE_Over.png)
 -Undersampling balanced accuracy score 0.658
- ![Undersampling](./Under.png)
+ ![Undersampling](./Credit_Risk_Analysis/Under.png)
 -Combination Sampling balanced accuracy score 0.544
- ![Combination Sampling](./Combo.png)
+ ![Combination Sampling](./Credit_Risk_Analysis/Combo.png)
 -Balanced Random Forest balanced accuracy score is 0.960
- ![Balanced Random Forest](./Bal_RandomForest.png)
+ ![Balanced Random Forest](./Credit_Risk_Analysis/Bal_RandomForest.png)
 -Easy Ensemble AdaBoost balanced accuracy score 0.965
- ![Easy Ensemble AdaBoost](./AdaBoost.png)
+ ![Easy Ensemble AdaBoost](./Credit_Risk_Analysis/AdaBoost.png)
 #### Summary
 The Easy Ensemble AdaBoost was the most accurate model for predicting credit risk. Combination Sampling was the least accurate model for predicting credit risk.
