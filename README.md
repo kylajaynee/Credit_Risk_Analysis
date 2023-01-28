@@ -8,11 +8,13 @@ using a combinatorial approach of over- and undersampling using the SMOTEENN alg
 BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Finally evaluating the performance of these models and make a written
 recommendation on whether they should be used to predict credit risk.
 
+
 #### Deliverables
 1. Use Resampling Models to Predict Credit Risk- using imbalanced-learn and scikit-learn libraries, RandomOverSampling, SMOTE, and ClusterCentroids algorithms
 2. Use the SMOTEENN Algorithm to Predict Credit Risk
 3. Use Ensemble Classifiers to Predict Credit Risk
 4. A Written Report on the Credit Risk Analysis (README)
+
 
 
 #### Results
@@ -33,6 +35,7 @@ recommendation on whether they should be used to predict credit risk.
  
 -Easy Ensemble AdaBoost balanced accuracy score 0.965
  ![Easy Ensemble AdaBoost](./Credit_Risk_Analysis/AdaBoost.png)
+ 
  
 #### Summary
 The Easy Ensemble AdaBoost was the most accurate model for predicting credit risk. Combination Sampling was the least accurate model for predicting credit risk.
